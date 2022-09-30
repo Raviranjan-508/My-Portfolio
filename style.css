@@ -535,6 +535,13 @@ section .title::after{
     background: #4794ac!important;
 }
 
+
+.max-width-contri{
+    width: 80%;
+    margin: auto;
+    /* border: 1px solid black; */
+}
+
 /* contact section styling */
 .contact .title::after{
     content: "get in touch";
