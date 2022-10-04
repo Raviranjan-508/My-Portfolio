@@ -542,6 +542,16 @@ section .title::after{
     /* border: 1px solid black; */
 }
 
+.max-width-contri1{
+    /* border: 1px solid black; */
+    width: 50%;
+    margin: auto;
+}
+.max-width-contri1img{
+    width: 100%;
+    margin: auto;
+}
+
 /* contact section styling */
 .contact .title::after{
     content: "get in touch";
