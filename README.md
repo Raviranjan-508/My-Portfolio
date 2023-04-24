@@ -1,3 +1,3 @@
 # My-Portfolio
-This is my personal portfolio, where all details related to me is available. This portfolio is created using HTML, CSS and JS.
-Netlify Link :-- https://raviranjancs.netlify.app/
+A professional portfolio is an excellent way to present your work to potential employers and display the skills that qualify you for a position.This portfolio is developed in HTML , CSS & JS.
+Netlify Link :-- https://raviranjan-508.github.io/
